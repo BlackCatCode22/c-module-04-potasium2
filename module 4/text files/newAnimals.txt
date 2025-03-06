@@ -1,0 +1,24 @@
+Species: Bear, Count: 4
+Name: Snuggles, Age: 7
+Name: Yogi, Age: 25
+Name: Yogi, Age: 4
+Name: Baloo, Age: 4
+
+Species: Hyena, Count: 4
+Name: Shenzi, Age: 4
+Name: Banzai, Age: 12
+Name: Nne, Age: 4
+Name: Lou, Age: 8
+
+Species: Lion, Count: 4
+Name: Kimba, Age: 6
+Name: Simba, Age: 12
+Name: Scar, Age: 22
+Name: Leo, Age: 4
+
+Species: Tiger, Count: 4
+Name: Jiba, Age: 2
+Name: Ryker, Age: 4
+Name: Cosimia, Age: 18
+Name: Dave, Age: 3
+
